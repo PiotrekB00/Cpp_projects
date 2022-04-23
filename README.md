@@ -7,4 +7,4 @@ Those are my projects in C++ from University.
 
 2. Blackjack - Gra w oczko
 
-3. Automation Regulation System - System automatycznej regulacji
+3. Automation Regulation System - Uklad automatycznej regulacji
